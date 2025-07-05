@@ -12,4 +12,8 @@ If you're experiencing issues, please try the following:
 ## Contact
 For direct support, please email us at: [your-email@example.com](mailto:your-email@example.com)
 
-Thanks for using MyApp!
+Thanks for using MyApp![tiktokVXEQazmpoJw9PCt7D7SNOjCn723ZzeDS.txt](https://github.com/user-attachments/files/21081773/tiktokVXEQazmpoJw9PCt7D7SNOjCn723ZzeDS.txt)
+
+https://github.com/NiggyPop/myAppsupport.git
+
+[Uploading tiktokVXEQazmpoJw9PCt7D7SNOjCn723ZzeDS.txt…]()
