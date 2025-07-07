@@ -1,6 +1,6 @@
-# MyApp Support
+# ProofParty Support
 
-Welcome to the support page for **MyApp**.
+Welcome to the support page for ProofParty.
 
 If you're experiencing issues, please try the following:
 
@@ -10,10 +10,5 @@ If you're experiencing issues, please try the following:
 - Check for app updates in the App Store
 
 ## Contact
-For direct support, please email us at: [your-email@example.com](mailto:your-email@example.com)
+For direct support, please email us at: [nickjmyer@icloud.com]
 
-Thanks for using MyApp![tiktokVXEQazmpoJw9PCt7D7SNOjCn723ZzeDS.txt](https://github.com/user-attachments/files/21081773/tiktokVXEQazmpoJw9PCt7D7SNOjCn723ZzeDS.txt)
-
-https://github.com/NiggyPop/myAppsupport.git
-
-[Uploading tiktokVXEQazmpoJw9PCt7D7SNOjCn723ZzeDS.txt…]()
