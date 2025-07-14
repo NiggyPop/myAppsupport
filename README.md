@@ -11,5 +11,4 @@ If you're experiencing issues, please try the following:
 
 ## Contact
 For direct support, please email us at: [nickjmyer@icloud.com]
-
 tiktok-developers-site-verification=VXEQazmpoJw9PCt7D7SNOjCn723ZzeDS
